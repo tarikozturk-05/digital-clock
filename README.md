@@ -1,3 +1,3 @@
 # digital-clock
 
-[🕐Saat Kaç?🤔🤨]()
+[🕐Saat Kaç?🤔🤨](https://tarikozturk-05.github.io/digital-clock/)
